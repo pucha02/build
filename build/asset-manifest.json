@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce3e24cb.css",
+    "main.js": "/static/js/main.68880bb2.js",
+    "static/media/manager.svg": "/static/media/manager.74fbce3edbb0b37eb66e7f45eeb4f511.svg",
+    "static/media/client.svg": "/static/media/client.4d6f5f26b5cb50c14569b8e806f80007.svg",
+    "static/media/sort.svg": "/static/media/sort.42adcdab75ad50e64aa3a811c52a01a6.svg",
+    "static/media/buyer.png": "/static/media/buyer.123838fd3574697ec552.png",
+    "static/media/leave.svg": "/static/media/leave.7772c7caffd1a823c0b09f77dd0adc79.svg",
+    "static/media/search.svg": "/static/media/search.ca5c3f750669b06316b3a5f79bff8f16.svg",
+    "static/media/leed.png": "/static/media/leed.ed74b7d514c4c78ae371.png",
+    "static/media/addUser.png": "/static/media/addUser.d2ea7c4b985106412f8d.png",
+    "static/media/clock.png": "/static/media/clock.a8251ce92e465d7fef4f.png",
+    "static/media/edit.png": "/static/media/edit.0f46e2728eb984e21ce8.png",
+    "static/media/update.png": "/static/media/update.8304a958dcdf2d47801f.png",
+    "static/media/hide.svg": "/static/media/hide.3c0232aa4639c95169b3f6d1f5e8cbfb.svg",
+    "static/media/productList.svg": "/static/media/productList.8b4e4f77111aebfe9b129164ce4709f2.svg",
+    "static/media/analytics.svg": "/static/media/analytics.d3845190cfba69d672c8138edbbab99c.svg",
+    "static/media/list.svg": "/static/media/list.1e3a7b211014f148fade3d7641c3ae60.svg",
+    "static/media/update.svg": "/static/media/update.3151e8072f5c6291394bbfda1911962c.svg",
+    "index.html": "/index.html",
+    "main.ce3e24cb.css.map": "/static/css/main.ce3e24cb.css.map",
+    "main.68880bb2.js.map": "/static/js/main.68880bb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3e24cb.css",
+    "static/js/main.68880bb2.js"
+  ]
+}
